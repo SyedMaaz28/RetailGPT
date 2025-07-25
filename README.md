@@ -37,7 +37,7 @@ The system is intelligent enough to generate accurate queries for given question
 2.Navigate to the project directory:
 
 ```bash
-  cd 4_sqldb_tshirts
+  cd Retail Q&A Tool
 ```
 3. Install the required dependencies using pip:
 
@@ -49,7 +49,7 @@ The system is intelligent enough to generate accurate queries for given question
 ```bash
   GOOGLE_API_KEY="your_api_key_here"
 ```
-5. For database setup, run database/db_creation_atliq_t_shirts.sql in your MySQL workbench
+5. For database setup, run database/Database.sql in your MySQL workbench
 
 ## Usage
 
